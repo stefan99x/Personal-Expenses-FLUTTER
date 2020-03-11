@@ -1,0 +1,6 @@
+# Referenced at G:\FlutterProjects\personal_expenses\personal_expenses_week\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:17
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at G:\FlutterProjects\personal_expenses\personal_expenses_week\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:22
+-keep class com.example.personalexpensesweek.MainActivity { <init>(); }
+# Referenced at G:\FlutterProjects\personal_expenses\personal_expenses_week\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:17
+-keep class io.flutter.app.FlutterApplication { <init>(); }
